@@ -23,3 +23,6 @@ Het oude bekende spelletje doodle jump wat voorheen veel gespeeld werd op de iPo
 ## Bronnen
 
 - [Doodle Jump in Unity](https://github.com/Brackeys/Doodle-Jump-Replica) voor de assets
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/12070317/113515519-4a962c00-9575-11eb-92e6-5bcfed7fd5ae.png)
