@@ -3,6 +3,7 @@
 Benodigdheden:
 
 1. [Open JavaFX](https://openjfx.io/) of [Java SDK 1.8](https://www.oracle.com/nl/java/technologies/javase/javase-jdk8-downloads.html)
+2. Maven kennis
 
 
 
@@ -10,7 +11,13 @@ Benodigdheden:
 
 Het oude bekende spelletje doodle jump wat voorheen veel gespeeld werd op de iPod is nu gemaakt in JavaFX met de FXGL library. Je kan dus een namaak variant van doodle jump spelen met Java voor educationele doeleinden.
 
+## Oefenopdrachten
 
+1. Maak een UI waarbij de score wordt bijgehouden. (Middelmatig)
+2. Zorg ervoor dat de hoofdspeler d.m.v. de physics collisionHandler tijdens het springen van onder door een platform kan gaan. (Moeilijk)
+3. Zorg voor een begin platform te breedte van de applicatie. (Makkelijk)
+4. Zorg ervoor dat een speler dood kan vallen. (Middelmatig)
+5. Zorg ervoor dat platformen niet op elkaar kunnen liggen of aan een aantal eisen moet voldoen. (Moeilijk)
 
 ## Problemen?
 
